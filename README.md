@@ -1,10 +1,6 @@
 # README
 This is a sample POC for creating an API test using CodeceptJS
 
-# INSTALLATION
---> Install CodeceptJS by running `npm i codeceptjs --save-dev`
---> Initialise CodeceptJs with `npx codeceptjs init`
-
 ## THE BASIC COMMANDS
 |ID| Description            | Command |
 | :---: |:-----------------------| :--- |
