@@ -8,4 +8,4 @@ This is a sample POC for creating an API test using CodeceptJS
 |  2  | Initialise the Project         | `npx codeceptjs init`         |
 |  3  | To get auto-completion support | `npx codeceptjs def`          |
 |  4  | Run linter                     | `npm run lint:fix`            |
-|  5  | Install Axios as a dependency  | `npm install axios --save     |
+|  5  | Install Axios as a dependency  | `npm install axios --save`     |

@@ -1,0 +1,23 @@
+{
+  "name": "reimagined-api",
+  "version": "1.0.0",
+  "description": "This is a sample POC for creating an API test using CodeceptJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jurence/reimagined-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jurence/reimagined-api/issues"
+  },
+  "homepage": "https://github.com/Jurence/reimagined-api#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
