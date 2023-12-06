@@ -1,4 +1,4 @@
-# READMEs
+# README
 This is a sample POC for creating an API test using CodeceptJS
 
 ## THE BASIC COMMANDS
